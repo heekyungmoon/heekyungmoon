@@ -1,0 +1,100 @@
+[
+    {
+        "name":"SHOW REEL",
+        "linkSrc":"https://youtu.be/YGhEoICjn_U",
+        "imgSrc":"./image/gra/0.png",
+        "badge":"Link",
+        "skill":""
+    },
+    {
+        "name":"CAMERA TRACKING",
+        "linkSrc":"https://youtu.be/7hqTDbgvZXQ",
+        "imgSrc":"./image/gra/1.png",
+        "badge":"Link",
+        "skill":""
+    },
+    {
+        "name":"3D COLLAGE",
+        "linkSrc":"https://youtu.be/QVmQesKBIWI",
+        "imgSrc":"./image/gra/2.png",
+        "badge":"Link",
+        "skill":""
+    },
+    {
+        "name":"AD PROJECT",
+        "linkSrc":"https://youtu.be/jaemDqLuMo8",
+        "imgSrc":"./image/gra/3.png",
+        "badge":"Link",
+        "skill":""
+    },
+    {
+        "name":"SHADOW EFFECTS",
+        "linkSrc":"https://youtu.be/1BfGfhHNPC4",
+        "imgSrc":"./image/gra/4.png",
+        "badge":"Link",
+        "skill":""
+    },
+    {
+        "name":"BRUSH SCRIBBLE",
+        "linkSrc":"https://youtu.be/FDgd4_5AIvA",
+        "imgSrc":"./image/gra/5.png",
+        "badge":"Link",
+        "skill":""
+    },
+    {
+        "name":"PARTICLE",
+        "linkSrc":"https://youtu.be/j3K4T-H6k0w",
+        "imgSrc":"./image/gra/6.png",
+        "badge":"Link",
+        "skill":""
+    },
+    {
+        "name":"BRAND AD PROJECT",
+        "linkSrc":"https://youtube.com/shorts/MWu5JdjMSB8?feature=share",
+        "imgSrc":"./image/gra/7.png",
+        "badge":"Link",
+        "skill":""
+    },
+    {
+        "name":"NEWTON PASTICHE",
+        "linkSrc":"https://youtu.be/p0qWoCzm6OM",
+        "imgSrc":"./image/gra/8.png",
+        "badge":"Link",
+        "skill":""
+    },
+    {
+        "name":"KALEIDA",
+        "linkSrc":"https://youtu.be/MvCIyQ3lXKQ",
+        "imgSrc":"./image/gra/9.png",
+        "badge":"Link",
+        "skill":""
+    },
+    {
+        "name":"BRAND AD PROJECT",
+        "linkSrc":"https://youtu.be/7ByGbJHdArM",
+        "imgSrc":"./image/gra/10.png",
+        "badge":"Link",
+        "skill":""
+    },
+    {
+        "name":"POSTER",
+        "linkSrc":"",
+        "imgSrc":"./image/gra/11.png",
+        "badge":"",
+        "skill":""
+    },
+    {
+        "name":"SNS CONTENT",
+        "linkSrc":"",
+        "imgSrc":"./image/gra/12.png",
+        "badge":"",
+        "skill":""
+    },
+    {
+        "name":"SNS CONTENT",
+        "linkSrc":"",
+        "imgSrc":"./image/gra/13.png",
+        "badge":"",
+        "skill":""
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "name":"'TIME' COVER",
+        "imgSrc":"./image/style/1.jpg"
+    },
+    {
+        "name":"'ALLURE' COVER",
+        "imgSrc":"./image/style/2.jpg"
+    },
+    {
+        "name":"'ALLURE' COVER",
+        "imgSrc":"./image/style/3.jpg"
+    },
+    {
+        "name":"'BEAUTY+' COVER",
+        "imgSrc":"./image/style/4.jpg"
+    },
+    {
+        "name":"'BEAUTY+' COVER",
+        "imgSrc":"./image/style/5.jpg"
+    },
+    {
+        "name":"'BEAUTY+' COVER",
+        "imgSrc":"./image/style/6.jpg"
+    },
+    {
+        "name":"'BEAUTY+' MAGAZINE",
+        "imgSrc":"./image/style/7.jpg"
+    },
+    {
+        "name":"'ESQUIRE' MAGAZINE",
+        "imgSrc":"./image/style/8.jpg"
+    }
+]
